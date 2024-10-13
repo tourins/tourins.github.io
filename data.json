@@ -67,7 +67,7 @@
       "category_id": 0,
       "name_id": 0,
       "language_id": 0,
-      "audio_file": "personal.mp3",
+      "audio_file": "personal-male.mp3",
       "symbols": 101
     },
     {
@@ -75,27 +75,11 @@
       "category_id": 0,
       "name_id": null,
       "language_id": 0,
-      "audio_file": "general.mp3",
+      "audio_file": "general-male.mp3",
       "symbols": 100
     },
     {
       "voice_id": 0,
-      "category_id": 0,
-      "name_id": 1,
-      "language_id": 0,
-      "audio_file": "personal.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 0,
-      "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 1,
       "category_id": 0,
       "name_id": 1,
       "language_id": 0,
@@ -103,72 +87,8 @@
       "symbols": 101
     },
     {
-      "voice_id": 1,
+      "voice_id": 0,
       "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 0,
-      "category_id": 1,
-      "name_id": 0,
-      "language_id": 0,
-      "audio_file": "personal.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 0,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 0,
-      "category_id": 2,
-      "name_id": 0,
-      "language_id": 0,
-      "audio_file": "personal.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 0,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 1,
-      "category_id": 2,
-      "name_id": 0,
-      "language_id": 0,
-      "audio_file": "personal.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 1,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 0,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 1,
-      "category_id": 2,
       "name_id": null,
       "language_id": 0,
       "audio_file": "general.mp3",
@@ -177,9 +97,89 @@
     {
       "voice_id": 1,
       "category_id": 0,
+      "name_id": 1,
+      "language_id": 0,
+      "audio_file": "personal-male.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 1,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 0,
+      "category_id": 1,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "personal.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 0,
+      "category_id": 1,
       "name_id": null,
       "language_id": 0,
       "audio_file": "general.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 0,
+      "category_id": 2,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "personal.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 0,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 1,
+      "category_id": 2,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "personal-male.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 1,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 0,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 1,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 1,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general-male.mp3",
       "symbols": 101
     },
     {
