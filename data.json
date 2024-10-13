@@ -80,6 +80,22 @@
       "symbols": 101
     },
     {
+      "voice_id": 0,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "817da557-84b0-4643-a027-b3a8d4e75eb2.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 0,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "60792909-a9fc-4aed-b3cf-7e2e38e005bc.mp3",
+      "symbols": 70
+    },
+    {
       "voice_id": 3,
       "category_id": 1,
       "name_id": 1,
@@ -101,6 +117,14 @@
       "name_id": null,
       "language_id": 1,
       "audio_file": "7419876b-8f55-4662-b666-e352e251f6ed.mp3",
+      "symbols": 80
+    },
+    {
+      "voice_id": 2,
+      "category_id": 2,
+      "name_id": 2,
+      "language_id": 1,
+      "audio_file": "52e34d75-1ade-4c5b-8ced-38ba31cec8c6.mp3",
       "symbols": 80
     },
     {
