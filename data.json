@@ -5,95 +5,95 @@
       "code": "en"
     },
     {
-      "name": "🇪🇸 Spanish",
+      "name": "🇪🇸 Español",
       "code": "es"
     },
     {
-      "name": "🇵🇱 Polish",
+      "name": "🇵🇱 Polski",
       "code": "pl"
     },
     {
-      "name": "🇺🇦 Ukrainian",
+      "name": "🇺🇦 Українська",
       "code": "uk"
     },
     {
-      "name": "🇩🇪 German",
+      "name": "🇩🇪 Deutsch",
       "code": "de"
     },
     {
-      "name": "🇯🇵 Japanese",
+      "name": "🇯🇵 日本語",
       "code": "ja"
     }
   ],
   "voices": [
     {
-      "name": "👩 voice",
+      "name": "👩 Female voice",
       "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
       "gender": "female",
       "language_id": 0
     },
     {
-      "name": "👨 voice",
+      "name": "👨 Male voice",
       "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
       "gender": "male",
       "language_id": 0
     },
     {
-      "name": "👩 voice",
+      "name": "👩 Voz femenina",
       "elevenlabs_voice_id": "abcd1234femaleEs",
       "gender": "female",
       "language_id": 1
     },
     {
-      "name": "👨 voice",
+      "name": "👨 Voz masculina",
       "elevenlabs_voice_id": "abcd1234maleEs",
       "gender": "male",
       "language_id": 1
     },
     {
-      "name": "👩 voice",
+      "name": "👩 Głos kobiecy",
       "elevenlabs_voice_id": "abcd1234femalePl",
       "gender": "female",
       "language_id": 2
     },
     {
-      "name": "👨 voice",
+      "name": "👨 Głos męski",
       "elevenlabs_voice_id": "abcd1234malePl",
       "gender": "male",
       "language_id": 2
     },
     {
-      "name": "👩 voice",
+      "name": "👩 Жіночий голос",
       "elevenlabs_voice_id": "abcd1234femaleUk",
       "gender": "female",
       "language_id": 3
     },
     {
-      "name": "👨 voice",
+      "name": "👨 Чоловічий голос",
       "elevenlabs_voice_id": "abcd1234maleUk",
       "gender": "male",
       "language_id": 3
     },
     {
-      "name": "👩 voice",
+      "name": "👩 Weibliche Stimme",
       "elevenlabs_voice_id": "abcd1234femaleDe",
       "gender": "female",
       "language_id": 4
     },
     {
-      "name": "👨 voice",
+      "name": "👨 Männliche Stimme",
       "elevenlabs_voice_id": "abcd1234maleDe",
       "gender": "male",
       "language_id": 4
     },
     {
-      "name": "👩 voice",
+      "name": "👩 女性の声",
       "elevenlabs_voice_id": "abcd1234femaleJa",
       "gender": "female",
       "language_id": 5
     },
     {
-      "name": "👨 voice",
+      "name": "👨 男性の声",
       "elevenlabs_voice_id": "abcd1234maleJa",
       "gender": "male",
       "language_id": 5
@@ -116,7 +116,7 @@
       "language_id": 1
     },
     {
-      "name": "Maria",
+      "name": "María",
       "gender": "female",
       "language_id": 1
     },
@@ -136,7 +136,7 @@
       "language_id": 1
     },
     {
-      "name": "Sofia",
+      "name": "Sofía",
       "gender": "female",
       "language_id": 1
     },
@@ -171,32 +171,32 @@
       "language_id": 2
     },
     {
-      "name": "Dmytro",
+      "name": "Дмитро",
       "gender": "male",
       "language_id": 3
     },
     {
-      "name": "Olga",
+      "name": "Ольга",
       "gender": "female",
       "language_id": 3
     },
     {
-      "name": "Bohdan",
+      "name": "Богдан",
       "gender": "male",
       "language_id": 3
     },
     {
-      "name": "Yulia",
+      "name": "Юлія",
       "gender": "female",
       "language_id": 3
     },
     {
-      "name": "Oleh",
+      "name": "Олег",
       "gender": "male",
       "language_id": 3
     },
     {
-      "name": "Viktoria",
+      "name": "Вікторія",
       "gender": "female",
       "language_id": 3
     },
@@ -231,68 +231,228 @@
       "language_id": 4
     },
     {
-      "name": "Hiroshi",
+      "name": "広志",
       "gender": "male",
       "language_id": 5
     },
     {
-      "name": "Yuki",
+      "name": "雪",
       "gender": "female",
       "language_id": 5
     },
     {
-      "name": "Takashi",
+      "name": "隆",
       "gender": "male",
       "language_id": 5
     },
     {
-      "name": "Aiko",
+      "name": "愛子",
       "gender": "female",
       "language_id": 5
     },
     {
-      "name": "Kenji",
+      "name": "健二",
       "gender": "male",
       "language_id": 5
     },
     {
-      "name": "Miyu",
+      "name": "美優",
       "gender": "female",
       "language_id": 5
     }
   ],
   "categories": [
     {
-      "name": "🙏 support",
+      "name": "🙏 Support",
       "language_id": 0
     },
     {
-      "name": "👍 affirmation",
+      "name": "👍 Affirmation",
       "language_id": 0
     },
     {
-      "name": "🫵 motivation",
+      "name": "🫵 Motivation",
       "language_id": 0
     },
     {
-      "name": "🎉 congratulations",
+      "name": "🎉 Congratulations",
       "language_id": 0
     },
     {
-      "name": "💪 encouragement",
+      "name": "💪 Encouragement",
       "language_id": 0
     },
     {
-      "name": "🎓 education",
+      "name": "🎓 Education",
       "language_id": 0
     },
     {
-      "name": "✨ gratitude",
+      "name": "✨ Gratitude",
       "language_id": 0
     },
     {
-      "name": "🌟 recognition",
+      "name": "🌟 Recognition",
       "language_id": 0
+    },
+    {
+      "name": "🙏 Apoyo",
+      "language_id": 1
+    },
+    {
+      "name": "👍 Afirmación",
+      "language_id": 1
+    },
+    {
+      "name": "🫵 Motivación",
+      "language_id": 1
+    },
+    {
+      "name": "🎉 Felicitaciones",
+      "language_id": 1
+    },
+    {
+      "name": "💪 Ánimo",
+      "language_id": 1
+    },
+    {
+      "name": "🎓 Educación",
+      "language_id": 1
+    },
+    {
+      "name": "✨ Gratitud",
+      "language_id": 1
+    },
+    {
+      "name": "🌟 Reconocimiento",
+      "language_id": 1
+    },
+    {
+      "name": "🙏 Wsparcie",
+      "language_id": 2
+    },
+    {
+      "name": "👍 Afirmacja",
+      "language_id": 2
+    },
+    {
+      "name": "🫵 Motywacja",
+      "language_id": 2
+    },
+    {
+      "name": "🎉 Gratulacje",
+      "language_id": 2
+    },
+    {
+      "name": "💪 Zachęta",
+      "language_id": 2
+    },
+    {
+      "name": "🎓 Edukacja",
+      "language_id": 2
+    },
+    {
+      "name": "✨ Wdzięczność",
+      "language_id": 2
+    },
+    {
+      "name": "🌟 Uznanie",
+      "language_id": 2
+    },
+    {
+      "name": "🙏 Підтримка",
+      "language_id": 3
+    },
+    {
+      "name": "👍 Схвалення",
+      "language_id": 3
+    },
+    {
+      "name": "🫵 Мотивація",
+      "language_id": 3
+    },
+    {
+      "name": "🎉 Вітання",
+      "language_id": 3
+    },
+    {
+      "name": "💪 Заохочення",
+      "language_id": 3
+    },
+    {
+      "name": "🎓 Освіта",
+      "language_id": 3
+    },
+    {
+      "name": "✨ Вдячність",
+      "language_id": 3
+    },
+    {
+      "name": "🌟 Визнання",
+      "language_id": 3
+    },
+    {
+      "name": "🙏 Unterstützung",
+      "language_id": 4
+    },
+    {
+      "name": "👍 Bestätigung",
+      "language_id": 4
+    },
+    {
+      "name": "🫵 Motivation",
+      "language_id": 4
+    },
+    {
+      "name": "🎉 Glückwünsche",
+      "language_id": 4
+    },
+    {
+      "name": "💪 Ermutigung",
+      "language_id": 4
+    },
+    {
+      "name": "🎓 Bildung",
+      "language_id": 4
+    },
+    {
+      "name": "✨ Dankbarkeit",
+      "language_id": 4
+    },
+    {
+      "name": "🌟 Anerkennung",
+      "language_id": 4
+    },
+    {
+      "name": "🙏 サポート",
+      "language_id": 5
+    },
+    {
+      "name": "👍 肯定",
+      "language_id": 5
+    },
+    {
+      "name": "🫵 モチベーション",
+      "language_id": 5
+    },
+    {
+      "name": "🎉 お祝い",
+      "language_id": 5
+    },
+    {
+      "name": "💪 励まし",
+      "language_id": 5
+    },
+    {
+      "name": "🎓 教育",
+      "language_id": 5
+    },
+    {
+      "name": "✨ 感謝",
+      "language_id": 5
+    },
+    {
+      "name": "🌟 認識",
+      "language_id": 5
     }
   ],
   "tts": [
@@ -306,267 +466,283 @@
     },
     {
       "voice_id": 1,
-      "category_id": 0,
+      "category_id": 1,
       "name_id": null,
       "language_id": 0,
       "audio_file": "general-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 2,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 1,
-      "audio_file": "general.mp3",
-      "symbols": 102
-    },
-    {
-      "voice_id": 3,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 1,
-      "audio_file": "general-male.mp3",
       "symbols": 98
     },
     {
-      "voice_id": 4,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 2,
-      "audio_file": "general.mp3",
-      "symbols": 105
-    },
-    {
-      "voice_id": 5,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 2,
-      "audio_file": "general-male.mp3",
-      "symbols": 99
-    },
-    {
-      "voice_id": 6,
-      "category_id": 4,
-      "name_id": null,
-      "language_id": 3,
-      "audio_file": "general.mp3",
-      "symbols": 96
-    },
-    {
-      "voice_id": 7,
-      "category_id": 4,
-      "name_id": null,
-      "language_id": 3,
-      "audio_file": "general-male.mp3",
-      "symbols": 95
-    },
-    {
-      "voice_id": 8,
-      "category_id": 3,
-      "name_id": 1,
-      "language_id": 4,
-      "audio_file": "personal.mp3",
-      "symbols": 103
-    },
-    {
-      "voice_id": 9,
-      "category_id": 4,
-      "name_id": 2,
-      "language_id": 4,
-      "audio_file": "personal-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 10,
-      "category_id": 6,
-      "name_id": 0,
-      "language_id": 5,
-      "audio_file": "personal.mp3",
-      "symbols": 98
-    },
-    {
-      "voice_id": 11,
-      "category_id": 6,
-      "name_id": 3,
-      "language_id": 5,
-      "audio_file": "personal-male.mp3",
-      "symbols": 100
-    },
-    {
       "voice_id": 2,
-      "category_id": 7,
-      "name_id": 4,
-      "language_id": 1,
-      "audio_file": "personal.mp3",
-      "symbols": 97
-    },
-    {
-      "voice_id": 3,
-      "category_id": 7,
-      "name_id": 5,
-      "language_id": 1,
-      "audio_file": "personal-male.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 4,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 2,
-      "audio_file": "general.mp3",
-      "symbols": 96
-    },
-    {
-      "voice_id": 5,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 2,
-      "audio_file": "general-male.mp3",
-      "symbols": 99
-    },
-    {
-      "voice_id": 6,
       "category_id": 2,
-      "name_id": 1,
-      "language_id": 3,
-      "audio_file": "personal.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 7,
-      "category_id": 2,
-      "name_id": 2,
-      "language_id": 3,
-      "audio_file": "personal-male.mp3",
-      "symbols": 104
-    },
-    {
-      "voice_id": 8,
-      "category_id": 3,
       "name_id": 3,
-      "language_id": 4,
-      "audio_file": "personal.mp3",
-      "symbols": 103
-    },
-    {
-      "voice_id": 9,
-      "category_id": 3,
-      "name_id": null,
-      "language_id": 4,
-      "audio_file": "general-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 10,
-      "category_id": 5,
-      "name_id": null,
-      "language_id": 5,
-      "audio_file": "general.mp3",
-      "symbols": 102
-    },
-    {
-      "voice_id": 11,
-      "category_id": 5,
-      "name_id": null,
-      "language_id": 5,
-      "audio_file": "general-male.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 2,
-      "category_id": 0,
-      "name_id": 4,
       "language_id": 1,
       "audio_file": "personal.mp3",
       "symbols": 105
     },
     {
       "voice_id": 3,
-      "category_id": 0,
-      "name_id": 5,
+      "category_id": 3,
+      "name_id": null,
       "language_id": 1,
-      "audio_file": "personal-male.mp3",
-      "symbols": 98
+      "audio_file": "general-male.mp3",
+      "symbols": 97
     },
     {
       "voice_id": 4,
-      "category_id": 6,
-      "name_id": 0,
+      "category_id": 4,
+      "name_id": null,
       "language_id": 2,
-      "audio_file": "personal.mp3",
-      "symbols": 104
+      "audio_file": "general.mp3",
+      "symbols": 103
     },
     {
       "voice_id": 5,
-      "category_id": 6,
-      "name_id": 3,
+      "category_id": 5,
+      "name_id": 9,
       "language_id": 2,
       "audio_file": "personal-male.mp3",
-      "symbols": 98
+      "symbols": 100
     },
     {
       "voice_id": 6,
-      "category_id": 7,
-      "name_id": 4,
+      "category_id": 6,
+      "name_id": null,
       "language_id": 3,
-      "audio_file": "personal.mp3",
+      "audio_file": "general.mp3",
       "symbols": 99
     },
     {
       "voice_id": 7,
       "category_id": 7,
-      "name_id": null,
+      "name_id": 14,
       "language_id": 3,
-      "audio_file": "general-male.mp3",
-      "symbols": 96
+      "audio_file": "personal-male.mp3",
+      "symbols": 102
     },
     {
       "voice_id": 8,
-      "category_id": 4,
-      "name_id": 5,
+      "category_id": 0,
+      "name_id": 18,
       "language_id": 4,
       "audio_file": "personal.mp3",
-      "symbols": 97
+      "symbols": 101
     },
     {
       "voice_id": 9,
-      "category_id": 4,
+      "category_id": 1,
       "name_id": null,
       "language_id": 4,
       "audio_file": "general-male.mp3",
-      "symbols": 95
+      "symbols": 98
     },
     {
       "voice_id": 10,
       "category_id": 2,
-      "name_id": 1,
+      "name_id": 23,
       "language_id": 5,
+      "audio_file": "personal.mp3",
+      "symbols": 103
+    },
+    {
+      "voice_id": 11,
+      "category_id": 3,
+      "name_id": null,
+      "language_id": 5,
+      "audio_file": "general-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 0,
+      "category_id": 4,
+      "name_id": 1,
+      "language_id": 0,
+      "audio_file": "personal.mp3",
+      "symbols": 104
+    },
+    {
+      "voice_id": 1,
+      "category_id": 5,
+      "name_id": null,
+      "language_id": 0,
+      "audio_file": "general-male.mp3",
+      "symbols": 96
+    },
+    {
+      "voice_id": 2,
+      "category_id": 6,
+      "name_id": 5,
+      "language_id": 1,
       "audio_file": "personal.mp3",
       "symbols": 100
     },
     {
-      "voice_id": 11,
+      "voice_id": 3,
+      "category_id": 7,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "general-male.mp3",
+      "symbols": 102
+    },
+    {
+      "voice_id": 4,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 5,
+      "category_id": 1,
+      "name_id": 10,
+      "language_id": 2,
+      "audio_file": "personal-male.mp3",
+      "symbols": 97
+    },
+    {
+      "voice_id": 6,
       "category_id": 2,
       "name_id": null,
+      "language_id": 3,
+      "audio_file": "general.mp3",
+      "symbols": 99
+    },
+    {
+      "voice_id": 7,
+      "category_id": 3,
+      "name_id": 16,
+      "language_id": 3,
+      "audio_file": "personal-male.mp3",
+      "symbols": 103
+    },
+    {
+      "voice_id": 8,
+      "category_id": 4,
+      "name_id": null,
+      "language_id": 4,
+      "audio_file": "general.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 9,
+      "category_id": 5,
+      "name_id": 22,
+      "language_id": 4,
+      "audio_file": "personal-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 10,
+      "category_id": 6,
+      "name_id": null,
       "language_id": 5,
-      "audio_file": "general-male.mp3",
+      "audio_file": "general.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 11,
+      "category_id": 7,
+      "name_id": 27,
+      "language_id": 5,
+      "audio_file": "personal-male.mp3",
       "symbols": 99
     },
     {
       "voice_id": 0,
-      "category_id": 7,
+      "category_id": 0,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "personal.mp3",
+      "symbols": 103
+    },
+    {
+      "voice_id": 1,
+      "category_id": 1,
       "name_id": null,
       "language_id": 0,
+      "audio_file": "general-male.mp3",
+      "symbols": 97
+    },
+    {
+      "voice_id": 2,
+      "category_id": 2,
+      "name_id": 4,
+      "language_id": 1,
+      "audio_file": "personal.mp3",
+      "symbols": 105
+    },
+    {
+      "voice_id": 3,
+      "category_id": 3,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "general-male.mp3",
+      "symbols": 96
+    },
+    {
+      "voice_id": 4,
+      "category_id": 4,
+      "name_id": 9,
+      "language_id": 2,
+      "audio_file": "personal.mp3",
+      "symbols": 102
+    },
+    {
+      "voice_id": 5,
+      "category_id": 5,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general-male.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 6,
+      "category_id": 6,
+      "name_id": 17,
+      "language_id": 3,
+      "audio_file": "personal.mp3",
+      "symbols": 104
+    },
+    {
+      "voice_id": 7,
+      "category_id": 7,
+      "name_id": null,
+      "language_id": 3,
+      "audio_file": "general-male.mp3",
+      "symbols": 95
+    },
+    {
+      "voice_id": 8,
+      "category_id": 0,
+      "name_id": null,
+      "language_id": 4,
       "audio_file": "general.mp3",
       "symbols": 100
     },
     {
-      "voice_id": 1,
-      "category_id": 7,
-      "name_id": 2,
-      "language_id": 0,
+      "voice_id": 9,
+      "category_id": 1,
+      "name_id": 24,
+      "language_id": 4,
       "audio_file": "personal-male.mp3",
-      "symbols": 101
+      "symbols": 99
+    },
+    {
+      "voice_id": 10,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 5,
+      "audio_file": "general.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 11,
+      "category_id": 3,
+      "name_id": 29,
+      "language_id": 5,
+      "audio_file": "personal-male.mp3",
+      "symbols": 100
     }
   ]
 }
