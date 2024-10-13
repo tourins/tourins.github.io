@@ -3,6 +3,26 @@
     {
       "name": "🇺🇸 English",
       "code": "en"
+    },
+    {
+      "name": "🇪🇸 Spanish",
+      "code": "es"
+    },
+    {
+      "name": "🇵🇱 Polish",
+      "code": "pl"
+    },
+    {
+      "name": "🇺🇦 Ukrainian",
+      "code": "uk"
+    },
+    {
+      "name": "🇩🇪 German",
+      "code": "de"
+    },
+    {
+      "name": "🇯🇵 Japanese",
+      "code": "ja"
     }
   ],
   "voices": [
@@ -17,6 +37,66 @@
       "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
       "gender": "male",
       "language_id": 0
+    },
+    {
+      "name": "👩 voice",
+      "elevenlabs_voice_id": "abcd1234femaleEs",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "👨 voice",
+      "elevenlabs_voice_id": "abcd1234maleEs",
+      "gender": "male",
+      "language_id": 1
+    },
+    {
+      "name": "👩 voice",
+      "elevenlabs_voice_id": "abcd1234femalePl",
+      "gender": "female",
+      "language_id": 2
+    },
+    {
+      "name": "👨 voice",
+      "elevenlabs_voice_id": "abcd1234malePl",
+      "gender": "male",
+      "language_id": 2
+    },
+    {
+      "name": "👩 voice",
+      "elevenlabs_voice_id": "abcd1234femaleUk",
+      "gender": "female",
+      "language_id": 3
+    },
+    {
+      "name": "👨 voice",
+      "elevenlabs_voice_id": "abcd1234maleUk",
+      "gender": "male",
+      "language_id": 3
+    },
+    {
+      "name": "👩 voice",
+      "elevenlabs_voice_id": "abcd1234femaleDe",
+      "gender": "female",
+      "language_id": 4
+    },
+    {
+      "name": "👨 voice",
+      "elevenlabs_voice_id": "abcd1234maleDe",
+      "gender": "male",
+      "language_id": 4
+    },
+    {
+      "name": "👩 voice",
+      "elevenlabs_voice_id": "abcd1234femaleJa",
+      "gender": "female",
+      "language_id": 5
+    },
+    {
+      "name": "👨 voice",
+      "elevenlabs_voice_id": "abcd1234maleJa",
+      "gender": "male",
+      "language_id": 5
     }
   ],
   "names": [
@@ -29,6 +109,156 @@
       "name": "Katy",
       "gender": "female",
       "language_id": 0
+    },
+    {
+      "name": "Luis",
+      "gender": "male",
+      "language_id": 1
+    },
+    {
+      "name": "Maria",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "Pablo",
+      "gender": "male",
+      "language_id": 1
+    },
+    {
+      "name": "Elena",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "Carlos",
+      "gender": "male",
+      "language_id": 1
+    },
+    {
+      "name": "Sofia",
+      "gender": "female",
+      "language_id": 1
+    },
+    {
+      "name": "Piotr",
+      "gender": "male",
+      "language_id": 2
+    },
+    {
+      "name": "Anna",
+      "gender": "female",
+      "language_id": 2
+    },
+    {
+      "name": "Mateusz",
+      "gender": "male",
+      "language_id": 2
+    },
+    {
+      "name": "Zofia",
+      "gender": "female",
+      "language_id": 2
+    },
+    {
+      "name": "Krzysztof",
+      "gender": "male",
+      "language_id": 2
+    },
+    {
+      "name": "Marta",
+      "gender": "female",
+      "language_id": 2
+    },
+    {
+      "name": "Dmytro",
+      "gender": "male",
+      "language_id": 3
+    },
+    {
+      "name": "Olga",
+      "gender": "female",
+      "language_id": 3
+    },
+    {
+      "name": "Bohdan",
+      "gender": "male",
+      "language_id": 3
+    },
+    {
+      "name": "Yulia",
+      "gender": "female",
+      "language_id": 3
+    },
+    {
+      "name": "Oleh",
+      "gender": "male",
+      "language_id": 3
+    },
+    {
+      "name": "Viktoria",
+      "gender": "female",
+      "language_id": 3
+    },
+    {
+      "name": "Hans",
+      "gender": "male",
+      "language_id": 4
+    },
+    {
+      "name": "Heidi",
+      "gender": "female",
+      "language_id": 4
+    },
+    {
+      "name": "Lukas",
+      "gender": "male",
+      "language_id": 4
+    },
+    {
+      "name": "Clara",
+      "gender": "female",
+      "language_id": 4
+    },
+    {
+      "name": "Niklas",
+      "gender": "male",
+      "language_id": 4
+    },
+    {
+      "name": "Emma",
+      "gender": "female",
+      "language_id": 4
+    },
+    {
+      "name": "Hiroshi",
+      "gender": "male",
+      "language_id": 5
+    },
+    {
+      "name": "Yuki",
+      "gender": "female",
+      "language_id": 5
+    },
+    {
+      "name": "Takashi",
+      "gender": "male",
+      "language_id": 5
+    },
+    {
+      "name": "Aiko",
+      "gender": "female",
+      "language_id": 5
+    },
+    {
+      "name": "Kenji",
+      "gender": "male",
+      "language_id": 5
+    },
+    {
+      "name": "Miyu",
+      "gender": "female",
+      "language_id": 5
     }
   ],
   "categories": [
@@ -43,6 +273,26 @@
     {
       "name": "🫵 motivation",
       "language_id": 0
+    },
+    {
+      "name": "🎉 congratulations",
+      "language_id": 0
+    },
+    {
+      "name": "💪 encouragement",
+      "language_id": 0
+    },
+    {
+      "name": "🎓 education",
+      "language_id": 0
+    },
+    {
+      "name": "✨ gratitude",
+      "language_id": 0
+    },
+    {
+      "name": "🌟 recognition",
+      "language_id": 0
     }
   ],
   "tts": [
@@ -55,22 +305,6 @@
       "symbols": 101
     },
     {
-      "voice_id": 0,
-      "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 1,
-      "category_id": 0,
-      "name_id": 0,
-      "language_id": 0,
-      "audio_file": "personal-male.mp3",
-      "symbols": 101
-    },
-    {
       "voice_id": 1,
       "category_id": 0,
       "name_id": null,
@@ -79,64 +313,248 @@
       "symbols": 100
     },
     {
-      "voice_id": 0,
-      "category_id": 0,
+      "voice_id": 2,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "general.mp3",
+      "symbols": 102
+    },
+    {
+      "voice_id": 3,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 1,
+      "audio_file": "general-male.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 4,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general.mp3",
+      "symbols": 105
+    },
+    {
+      "voice_id": 5,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general-male.mp3",
+      "symbols": 99
+    },
+    {
+      "voice_id": 6,
+      "category_id": 4,
+      "name_id": null,
+      "language_id": 3,
+      "audio_file": "general.mp3",
+      "symbols": 96
+    },
+    {
+      "voice_id": 7,
+      "category_id": 4,
+      "name_id": null,
+      "language_id": 3,
+      "audio_file": "general-male.mp3",
+      "symbols": 95
+    },
+    {
+      "voice_id": 8,
+      "category_id": 3,
       "name_id": 1,
-      "language_id": 0,
+      "language_id": 4,
       "audio_file": "personal.mp3",
-      "symbols": 101
+      "symbols": 103
     },
     {
-      "voice_id": 0,
-      "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
+      "voice_id": 9,
+      "category_id": 4,
+      "name_id": 2,
+      "language_id": 4,
+      "audio_file": "personal-male.mp3",
       "symbols": 100
     },
     {
-      "voice_id": 1,
-      "category_id": 0,
+      "voice_id": 10,
+      "category_id": 6,
+      "name_id": 0,
+      "language_id": 5,
+      "audio_file": "personal.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 11,
+      "category_id": 6,
+      "name_id": 3,
+      "language_id": 5,
+      "audio_file": "personal-male.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 2,
+      "category_id": 7,
+      "name_id": 4,
+      "language_id": 1,
+      "audio_file": "personal.mp3",
+      "symbols": 97
+    },
+    {
+      "voice_id": 3,
+      "category_id": 7,
+      "name_id": 5,
+      "language_id": 1,
+      "audio_file": "personal-male.mp3",
+      "symbols": 101
+    },
+    {
+      "voice_id": 4,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general.mp3",
+      "symbols": 96
+    },
+    {
+      "voice_id": 5,
+      "category_id": 1,
+      "name_id": null,
+      "language_id": 2,
+      "audio_file": "general-male.mp3",
+      "symbols": 99
+    },
+    {
+      "voice_id": 6,
+      "category_id": 2,
       "name_id": 1,
-      "language_id": 0,
-      "audio_file": "personal-male.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 1,
-      "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 0,
-      "category_id": 1,
-      "name_id": 0,
-      "language_id": 0,
+      "language_id": 3,
       "audio_file": "personal.mp3",
       "symbols": 101
     },
     {
-      "voice_id": 0,
-      "category_id": 1,
+      "voice_id": 7,
+      "category_id": 2,
+      "name_id": 2,
+      "language_id": 3,
+      "audio_file": "personal-male.mp3",
+      "symbols": 104
+    },
+    {
+      "voice_id": 8,
+      "category_id": 3,
+      "name_id": 3,
+      "language_id": 4,
+      "audio_file": "personal.mp3",
+      "symbols": 103
+    },
+    {
+      "voice_id": 9,
+      "category_id": 3,
       "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
+      "language_id": 4,
+      "audio_file": "general-male.mp3",
       "symbols": 100
     },
     {
-      "voice_id": 0,
-      "category_id": 2,
-      "name_id": 0,
-      "language_id": 0,
-      "audio_file": "personal.mp3",
+      "voice_id": 10,
+      "category_id": 5,
+      "name_id": null,
+      "language_id": 5,
+      "audio_file": "general.mp3",
+      "symbols": 102
+    },
+    {
+      "voice_id": 11,
+      "category_id": 5,
+      "name_id": null,
+      "language_id": 5,
+      "audio_file": "general-male.mp3",
       "symbols": 101
     },
     {
-      "voice_id": 0,
+      "voice_id": 2,
+      "category_id": 0,
+      "name_id": 4,
+      "language_id": 1,
+      "audio_file": "personal.mp3",
+      "symbols": 105
+    },
+    {
+      "voice_id": 3,
+      "category_id": 0,
+      "name_id": 5,
+      "language_id": 1,
+      "audio_file": "personal-male.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 4,
+      "category_id": 6,
+      "name_id": 0,
+      "language_id": 2,
+      "audio_file": "personal.mp3",
+      "symbols": 104
+    },
+    {
+      "voice_id": 5,
+      "category_id": 6,
+      "name_id": 3,
+      "language_id": 2,
+      "audio_file": "personal-male.mp3",
+      "symbols": 98
+    },
+    {
+      "voice_id": 6,
+      "category_id": 7,
+      "name_id": 4,
+      "language_id": 3,
+      "audio_file": "personal.mp3",
+      "symbols": 99
+    },
+    {
+      "voice_id": 7,
+      "category_id": 7,
+      "name_id": null,
+      "language_id": 3,
+      "audio_file": "general-male.mp3",
+      "symbols": 96
+    },
+    {
+      "voice_id": 8,
+      "category_id": 4,
+      "name_id": 5,
+      "language_id": 4,
+      "audio_file": "personal.mp3",
+      "symbols": 97
+    },
+    {
+      "voice_id": 9,
+      "category_id": 4,
+      "name_id": null,
+      "language_id": 4,
+      "audio_file": "general-male.mp3",
+      "symbols": 95
+    },
+    {
+      "voice_id": 10,
       "category_id": 2,
+      "name_id": 1,
+      "language_id": 5,
+      "audio_file": "personal.mp3",
+      "symbols": 100
+    },
+    {
+      "voice_id": 11,
+      "category_id": 2,
+      "name_id": null,
+      "language_id": 5,
+      "audio_file": "general-male.mp3",
+      "symbols": 99
+    },
+    {
+      "voice_id": 0,
+      "category_id": 7,
       "name_id": null,
       "language_id": 0,
       "audio_file": "general.mp3",
@@ -144,51 +562,11 @@
     },
     {
       "voice_id": 1,
-      "category_id": 2,
-      "name_id": 0,
+      "category_id": 7,
+      "name_id": 2,
       "language_id": 0,
       "audio_file": "personal-male.mp3",
       "symbols": 101
-    },
-    {
-      "voice_id": 1,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 0,
-      "category_id": 1,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 1,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general-male.mp3",
-      "symbols": 100
-    },
-    {
-      "voice_id": 1,
-      "category_id": 0,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general-male.mp3",
-      "symbols": 101
-    },
-    {
-      "voice_id": 0,
-      "category_id": 2,
-      "name_id": null,
-      "language_id": 0,
-      "audio_file": "general.mp3",
-      "symbols": 100
     }
   ]
 }
