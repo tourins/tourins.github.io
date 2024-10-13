@@ -7,13 +7,13 @@
   ],
   "voices": [
     {
-      "name": "👩",
+      "name": "👩 voice",
       "elevenlabs_voice_id": "K8lgMMdmFr7QoEooafEf",
       "gender": "female",
       "language_id": 0
     },
     {
-      "name": "👨",
+      "name": "👨 voice",
       "elevenlabs_voice_id": "UvSWlWKwkwKAshx25ieK",
       "gender": "male",
       "language_id": 0
