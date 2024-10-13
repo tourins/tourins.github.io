@@ -76,8 +76,16 @@
       "category_id": 0,
       "name_id": 0,
       "language_id": 0,
-      "audio_file": "91e2838c-01c2-4f67-9592-1a0df54a795c.mp3",
+      "audio_file": "7419876b-8f55-4662-b666-e352e251f6ed.mp3",
       "symbols": 101
+    },
+    {
+      "voice_id": 0,
+      "category_id": 0,
+      "name_id": 0,
+      "language_id": 0,
+      "audio_file": "91e2838c-01c2-4f67-9592-1a0df54a795c.mp3",
+      "symbols": 100
     },
     {
       "voice_id": 0,
